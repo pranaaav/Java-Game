@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CardShoe
+comment0.text=\r\n\ CardShoe\ class\ to\ define\ the\ value\ of\ cards.\r\n\ \ Assigning\ cards\ a\ value.\r\n
+comment1.params=
+comment1.target=CardShoe()
+comment2.params=cardShoe
+comment2.target=CardShoe(Card[])
+comment3.params=cardShoe
+comment3.target=void\ setCardShoe(Card[])
+comment4.params=
+comment4.target=Card[]\ getCardShoe()
+comment5.params=
+comment5.target=void\ display()
+numComments=6

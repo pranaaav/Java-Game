@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Card\ class\ is\ to\ store\ and\r\n\ \ Retrieve\ the\ value\ of\ card\ in\ each\ round.\r\n
+comment1.params=
+comment1.target=Card()
+comment2.params=cardValue
+comment2.target=Card(int)
+comment3.params=cardValue
+comment3.target=void\ setCardValue(int)
+comment4.params=
+comment4.target=int\ getCardValue()
+comment5.params=
+comment5.target=void\ display()
+numComments=6
